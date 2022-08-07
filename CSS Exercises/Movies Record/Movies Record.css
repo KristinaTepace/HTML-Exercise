@@ -1,0 +1,23 @@
+table.dark {
+	border: 1px solid #1a1a1a;
+    color: white;}
+
+table.dark th {
+    background-image: url("gradient.gif");
+	border-bottom:1px solid #000;
+    color: white;}
+
+table.dark td {
+	border-right:1px solid #1a1a1a;
+    background-image: url("gradient.gif");
+    color: white;}
+
+table.dark h4 {
+    background-image: url("gradient.gif");
+	font-weight:normal;
+    color: white;}
+
+body {
+    background-color: #000;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:100%;}
